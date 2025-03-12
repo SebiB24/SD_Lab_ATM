@@ -31,3 +31,8 @@ Acest proiect este o **simulare ATM în C++**, care permite utilizatorilor să r
    - `3` Afișează istoricul tranzacțiilor
    - `0` Ieșire
 3. **Urmează instrucțiunile de pe ecran** pentru a finaliza acțiunile.
+
+## Capturi de ecran
+![image](https://github.com/user-attachments/assets/0145ddec-b88e-481e-b38d-cb571e11a821)
+
+![image](https://github.com/user-attachments/assets/b87871b8-00e8-4baf-9a34-06772795616a)
